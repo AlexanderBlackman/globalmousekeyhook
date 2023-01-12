@@ -13,7 +13,7 @@ This is a fork of gmamaladze's globalmousekeyhook that targets dotnet 6 and abov
 
 ## Prerequisites
 
- - **Windows:** .NET Framework 6.0+
+ - **Windows:** .NET 6.0+
 
 ## Installation and sources
 
