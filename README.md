@@ -5,16 +5,14 @@
 
 ![Mouse and Keyboard Hooking Library in c#](/mouse-keyboard-hook-logo.png)
 
-## NEWS!
-Added support for the detection of key combinations and sequences see: [Quickstart - Detecting Key Combinations and Sequences](keycomb.md)
-
 ## What it does?
 
 This library allows you to tap the keyboard and mouse, to detect and record their activity even when an application is inactive and runs in the background.
+This is a fork of gmamaladze's globalmousekeyhook that targets dotnet 6 and above. Please use the original if you are targeting earlier versions.
 
 ## Prerequisites
 
- - **Windows:** .NET Framework 4.0+
+ - **Windows:** .NET Framework 6.0+
 
 ## Installation and sources
 
