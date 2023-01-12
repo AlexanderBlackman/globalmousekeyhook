@@ -8,6 +8,7 @@
 ## What it does?
 
 This library allows you to tap the keyboard and mouse, to detect and record their activity even when an application is inactive and runs in the background.
+
 This is a fork of gmamaladze's globalmousekeyhook that targets dotnet 6 and above. Please use the original if you are targeting earlier versions.
 
 ## Prerequisites
